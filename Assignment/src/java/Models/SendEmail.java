@@ -24,8 +24,8 @@ import java.util.Random;
  */
 public class SendEmail {
 
-    final String fromEmail = "hieuhnhe163048@fpt.edu.vn";
-    final String password = "Hangochieu123";
+    final String fromEmail = "";
+    final String password = "";
 
     public static String getRandom() {
         Random rd = new Random();
@@ -34,9 +34,6 @@ public class SendEmail {
     }
 
     public String sendCode(String toEmail, String content) {
-//        String toEmail = "hieuhn0301@gmail.com";
-//        String fromEmail = "prj301_fuhoalac@outlook.com.vn";
-//        String password = "Hieu@123";
         String code = getRandom();
 //        final String fromEmail = "phamduykhanhlc97@gmail.com";
 //        final String password = "evskhzialprwptpg";
