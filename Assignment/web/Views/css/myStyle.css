@@ -1,0 +1,168 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Jun 28, 2022, 11:56:34 PM
+    Author     : ADMIN
+*/
+
+.pushHeader{
+    background-color: #435c70;
+    border-radius: 1.5rem;
+    margin-top: 120px;
+}
+div.container.pushHeader{
+    width: 70%;
+}
+.width-70{
+    padding: 16px;
+}
+img.img-responsive.img-circle.avatar{
+    margin-top: 8px;
+    display: inline-block;
+    width: 80px;
+    height: 65px;
+}
+img.img-responsive.img-circle.avatar-cmt{
+    margin-top: 8px;
+    display: inline-block;
+    width: 65px;
+    height: 35px;
+}
+.item-detail{
+    margin-top: 100px;
+}
+span.shop_name{
+    margin:16px;
+    font-size: 2rem;
+    text-align: center;
+}
+.fit-content{
+    width: fit-content;
+}
+.btn:focus{
+    box-shadow: none;
+    outline: none;
+    box-shadow: none;
+    color: white;
+    -webkit-box-shadow: none;
+    -webkit-user-select: none;
+    transition: none;
+}
+.shop,
+.review{
+    margin-top: 16px;
+}
+.shop,
+.review,
+.item-detail{
+    background-color: #fff;
+    padding: 16px 8px;
+    border-radius:  1rem;
+    box-shadow: 10px 10px 3px rgba(0,0,0,0.03);
+}
+.menu-item,
+.menu-item-info{
+    text-align: center;
+}
+.cmt-info-username{
+    margin: 0;
+    color: black;
+}
+.cmt-content{
+    margin-top: 16px;
+    margin-bottom: 0;
+    color: #000;
+}
+.review-title{
+    margin: 0;
+}
+
+.new-cmt{
+    text-align: right;
+    display: flex;
+    justify-content: space-between;
+}
+textArea{
+    width: 95%;
+    margin-left: 16px;
+    background-color: #ddd;
+    margin-right: 8px;
+}
+button.send{
+    margin-right: 12px;
+    width: 5%;
+}
+form.pagging{
+    text-align: center;
+}
+.width-100{
+    width: 100%;
+}
+.width-90{
+    width: 90%;
+}
+div.row.mgl-16{
+    margin-left: 16px;
+}
+div.row.mgr-16{
+    margin-right: 16px;
+}
+table{
+    margin-top: 16px;
+}
+ul.social-icon{
+    list-style: none;
+    padding: 0;
+    font-size: 36px;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 16px;
+}
+ul.social-icon i{
+    color: black;
+}
+.section-title{
+    padding: 0;
+}
+footer#footer{
+    background-color: #567086;
+    margin-top: 24px;
+    margin-bottom: 0;
+}
+footer#footer p,
+footer#footer h2,
+footer#footer h3,
+footer#footer h4{
+    color:white;
+}
+footer#footer h3{
+    margin: 16px 0;
+}
+#footer .row{
+    margin: 24px 0;
+    text-align: center;
+}
+#footer .container{
+    margin: 0 36px;
+}
+.section-content{
+    text-align: left;
+}
+iframe{
+    border-radius: 0.5rem;
+    margin: 16px;
+}
+.circle{
+    background: #a3a645;
+    border: 0.1875rem solid #0F1c3f;
+    border-radius: 50%;
+    box-shadow: 0.375em 0.375em 0 0 rgba(15,28,63,0.125);
+    height: 20em;
+    width: 20em;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+}
